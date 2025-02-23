@@ -1,5 +1,6 @@
 # Form-Validation-proj
 This is a simple form validation project that demonstrates how to validate a form using JavaScript
+
 Features
 Validates user input for required fields..
 Prevents form submission if validation fails.
